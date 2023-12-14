@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+
+<meta charset = "UTF-8">
+<meta name = "viewport" content = "width=device-width,inital-scale=1.0">
+<title> LASAGA PERSONAL WEBSITE </title>
+
+<link rel ="stylesheet" href = "css.css"
+
+</head>
+
+<body>
+
+	<header class = "head"
+	<a href = "#" class = "logo">Marco Antonio Lasaga</a>
+	
+		<nav class = "navigation"
+		<a href = "#"> Home </a>
+		<a href = "#"> About Me </a>
+		<a href = "#"> Contact Us </a>
+	
+
